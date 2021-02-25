@@ -1,0 +1,14 @@
+.dropdown-toggle.text-line {
+    color: white;
+    font-size: 15px;
+}
+
+.dropdown-toggle,
+.dropdown-items {
+    cursor: pointer;
+    font-size: 8px;
+}
+
+.navbar-brand {
+    font-size: 2.25rem;
+}
